@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "timeNot", "timeNot\timeNot.vcxproj", "{5AF0D1EC-EC89-4484-A87A-416D54ACE4E0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GuardA", "GuardA\GuardA.vcxproj", "{1F670AAD-EA1B-4AF9-BE23-8533BFC8EA49}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hookDll", "hookDll\hookDll.vcxproj", "{2E10834F-8D73-4CBF-8D96-68835E426D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AF0D1EC-EC89-4484-A87A-416D54ACE4E0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5AF0D1EC-EC89-4484-A87A-416D54ACE4E0}.Debug|Win32.Build.0 = Debug|Win32
+		{5AF0D1EC-EC89-4484-A87A-416D54ACE4E0}.Release|Win32.ActiveCfg = Release|Win32
+		{5AF0D1EC-EC89-4484-A87A-416D54ACE4E0}.Release|Win32.Build.0 = Release|Win32
+		{1F670AAD-EA1B-4AF9-BE23-8533BFC8EA49}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F670AAD-EA1B-4AF9-BE23-8533BFC8EA49}.Debug|Win32.Build.0 = Debug|Win32
+		{1F670AAD-EA1B-4AF9-BE23-8533BFC8EA49}.Release|Win32.ActiveCfg = Release|Win32
+		{1F670AAD-EA1B-4AF9-BE23-8533BFC8EA49}.Release|Win32.Build.0 = Release|Win32
+		{2E10834F-8D73-4CBF-8D96-68835E426D0D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2E10834F-8D73-4CBF-8D96-68835E426D0D}.Debug|Win32.Build.0 = Debug|Win32
+		{2E10834F-8D73-4CBF-8D96-68835E426D0D}.Release|Win32.ActiveCfg = Release|Win32
+		{2E10834F-8D73-4CBF-8D96-68835E426D0D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
